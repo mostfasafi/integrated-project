@@ -173,6 +173,7 @@ header .container ul a:hover::before{
 
 }
 .dawn i{
+   
    color: var(--main-color);
     transform: translateY(-50%);
     transform: rotate(180deg);
